@@ -1,6 +1,11 @@
 # DataAIWorldTourAmsterdam2024
 
 
+## Youtube Video
+[![Databricks Event 2024 Amsterdam](https://img.youtube.com/vi/7F8vhmyfRQY.jpg)](https://youtu.be/7F8vhmyfRQY)
+
+## Highlights
+
 Here are some of the highlights:
 
 - **Adam Conway (Databricks SVP of Product)** discussed our acquisition of **Tabular**, the data management company founded by the original creators of **Apache Iceberg**, to unify Delta Lake & Iceberg Lakehouse formats. [Video](https://www.youtube.com/watch?v=U6rhhMb_494) & [Blog](https://www.databricks.com/blog/databricks-tabular?)
