@@ -2,7 +2,7 @@
 
 
 ## Youtube Video
-[![Databricks Event 2024 Amsterdam](https://img.youtube.com/vi/7F8vhmyfRQY.jpg)](https://youtu.be/7F8vhmyfRQY)
+[![Databricks Event 2024 Amsterdam](https://img.youtube.com/vi/7F8vhmyfRQY/0.jpg)](https://youtu.be/7F8vhmyfRQY)
 
 ## Highlights
 
