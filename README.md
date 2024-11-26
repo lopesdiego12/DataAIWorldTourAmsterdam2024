@@ -29,3 +29,20 @@ Here are some of the highlights:
 - **Data Sharing & Collaboration Updates**: Announcements of **Databricks Clean Rooms** moving to Public Preview on **AWS & Microsoft Azure**. [Video 1](https://www.youtube.com/watch?v=AZkIxl4YuKs)& [Video2](https://www.youtube.com/watch?v=iLVK2CyWwzY)& [Blog](https://www.databricks.com/blog/whats-new-data-sharing-and-collaboration?)
 
 - **Mosaic AI Upgrades**: Several new features were announced to build and deploy production-quality **Compound AI Systems** at speed & scale. [Video](https://www.youtube.com/watch?v=acIBdCOj88E) & [Blog](https://www.databricks.com/blog/mosaic-ai-build-and-deploy-production-quality-compound-ai-systems?)
+
+
+## Get Started with Generative AI Engineering
+
+
+This course introduces Databricks and Mosaic AI for Generative AI through a series of lecture videos and in-product demonstrations. It provides an overview of the features and workflows available in Databricks for generative AI applications, with a focus on showcasing their capabilities. While this course serves as an introduction, those seeking a deeper dive into specific workflows or hands-on labs are encouraged to explore the "Generative AI Engineering with Databricks" course from the Databricks Academy. By the end of the course, participants will be able to explain the fundamental concepts of the Databricks Data Intelligence (DI) Platform, particularly for users managing generative AI workflows.
+
+
+
+## Course Agenda
+| Notebook &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-------|
+| [**GenAI-GS-00** AI Playgrounds Demo]($./GenAI-GS-00 AI Playgrounds Demo) </br> [**GenAI-GS-01A** Foundation Model API Demo]($./GenAI-GS-01A Foundation Model API Demo)</br> [**GenAI-GS-01B** Mlflow Experiments and Evaluation Demo]($./GenAI-GS-01B Mlflow Experiments and Evaluation Demo) </br> [**GenAI-GS-02** MLflow LLM as a Judge]($./GenAI-GS-02 MLflow LLM as a Judge) </br> [**GenAI-GS-03A** Model Marketplace and Unity Catalog]($./GenAI-GS-03A Model Marketplace and Unity Catalog)</br> [**GenAI-GS-03B** AI Gateway OpenAI Model]($./GenAI-GS-03B AI Gateway OpenAI Model)
+
+
+
+
