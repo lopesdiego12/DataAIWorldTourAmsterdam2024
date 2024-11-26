@@ -1,9 +1,5 @@
 # DataAIWorldTourAmsterdam2024
 
-
-## Youtube Video
-[![Databricks Event 2024 Amsterdam](https://img.youtube.com/vi/7F8vhmyfRQY/0.jpg)](https://youtu.be/7F8vhmyfRQY)
-
 ## Highlights
 
 Here are some of the highlights:
@@ -30,12 +26,13 @@ Here are some of the highlights:
 
 - **Mosaic AI Upgrades**: Several new features were announced to build and deploy production-quality **Compound AI Systems** at speed & scale. [Video](https://www.youtube.com/watch?v=acIBdCOj88E) & [Blog](https://www.databricks.com/blog/mosaic-ai-build-and-deploy-production-quality-compound-ai-systems?)
 
+## Youtube Video
+[![Databricks Event 2024 Amsterdam](https://img.youtube.com/vi/7F8vhmyfRQY/0.jpg)](https://youtu.be/7F8vhmyfRQY)
 
 ## Get Started with Generative AI Engineering
 
 
 This course introduces Databricks and Mosaic AI for Generative AI through a series of lecture videos and in-product demonstrations. It provides an overview of the features and workflows available in Databricks for generative AI applications, with a focus on showcasing their capabilities. While this course serves as an introduction, those seeking a deeper dive into specific workflows or hands-on labs are encouraged to explore the "Generative AI Engineering with Databricks" course from the Databricks Academy. By the end of the course, participants will be able to explain the fundamental concepts of the Databricks Data Intelligence (DI) Platform, particularly for users managing generative AI workflows.
-
 
 
 ## Course Agenda
